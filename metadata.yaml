@@ -1,0 +1,5 @@
+homepage: "https://github.com/codewithzac/"
+documentation: "https://github.com/codewithzac/gtm-meta-pixel"
+versions:
+  - sha: a55d0c3608ae2aaf47b1a5c0479d9465c68fbb72
+    changeNotes: Initial release.
